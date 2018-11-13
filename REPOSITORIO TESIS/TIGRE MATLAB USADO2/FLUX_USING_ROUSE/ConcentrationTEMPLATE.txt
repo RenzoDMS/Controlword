@@ -1,0 +1,24 @@
+%% Format of Concentrations to import to
+%Bimodal_ACP.m to compare Results.
+
+% PLEASE INCLUDE ONLY ONE VERTICAL PER TEXT FILE AND 
+% RESPECT THE ORDER OF APPEARANCE AND THE UNITS 
+% SHOWN HERE FOR THE PROGRAM TO RUN
+
+
+
+
+%Manacapuru 19/04/2012
+%Verticale
+%Distance RG (m)-V1 500
+%Prof. (m)	
+%[C](mg L-1)-Total suspended sediment concentration
+%[Cf](mg L-1)- Fines concentration
+%[Ca](mg L-1) - Coarse concentration	
+% Percentage fines
+% Percentage coarse
+0.2	44	40	4
+23	123	64	59
+54	1477	69	1408
+58	714	74	640
+
